@@ -11,7 +11,8 @@
 ### 1. Clone the repo
 
 ```sh
-> git clone git@github.com:wafy89/bike-sharing.git
+> git clone git@github.com:wafy89/Bahnhof.git
+
 ```
 
 ### 2. Install NPM packages
