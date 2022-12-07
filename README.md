@@ -18,7 +18,7 @@
 ### 2. Install NPM packages
 
 ```sh
-> cd bike-sharing
+> cd bahnhof
 > npm run install-deps
 ```
 
