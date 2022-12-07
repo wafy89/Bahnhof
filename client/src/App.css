@@ -1,0 +1,36 @@
+.map-container {
+	width: 100%;
+	height: 100vh;
+	z-index: 5;
+}
+.container {
+	width: 100vw;
+	height: 100vh;
+}
+.searchBar {
+	width: 500px;
+	position: fixed;
+	top: 0;
+	right: 0;
+	z-index: 8;
+	background-color: #fff;
+}
+.field {
+	display: flex;
+	width: 100%;
+	align-items: center;
+	margin: 20px;
+}
+.select {
+	flex-grow: 1;
+	margin: 10px 30px;
+}
+
+label {
+	width: 40px;
+}
+p {
+	margin: 20px;
+	color: brown;
+	font-size: large;
+}
